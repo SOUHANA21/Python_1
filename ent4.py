@@ -3,6 +3,7 @@ if nom =="Melissa":
     print("vous etes Melissa")
 else:
     print("vous n'etes pas Melissa")
+    
 a=str(input("bonjour Melissa"))
 print(a)   
 
@@ -12,5 +13,4 @@ if nombre>0:
     print("Positif")
 elif nombre<0:
     print("Négatif")
-else:
-    print("Nul")
+    
